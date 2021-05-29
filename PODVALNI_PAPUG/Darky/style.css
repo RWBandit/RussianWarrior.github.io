@@ -1,0 +1,17 @@
+body{
+    background-image: url(Darky.jpg);
+    background-size: cover;
+}
+p{
+  font-family: fantasy;
+    font-size: 40px;
+     background:  rgba(0,0,0,0);
+    display: inline-block;
+    text-align: left;
+    margin-left: 350px;
+    margin-top: 50px;
+    width: 1250px;
+    position: relative;
+    top: 600px;
+    color:wheat;
+}
